@@ -4,7 +4,7 @@
 </p>
 About Me:
 📚 Software Developer
-👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS (S3 Bucket), and currently learning Flutter with Dart language in Android Studio.
+👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS, and currently learning Flutter with Dart language in Android Studio.
 
 Skills:
 
