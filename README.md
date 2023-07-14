@@ -4,9 +4,11 @@
 </p>
 <div align="center">
   <h2>About Me</h2>
-<\div>
-📚 Software Developer
-👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS (S3 Bucket), and currently learning Flutter with Dart language in Android Studio.
+</div>
+<p align="center">
+  📚 Software Developer<br>
+  👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS (S3 Bucket), and currently learning Flutter with Dart language in Android Studio.
+</p>
 <div align="center">
   <h2>Skills</h2>
 </div>
