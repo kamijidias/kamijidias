@@ -2,13 +2,15 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png" alt="Banner" width="722">
 </p>
+
 <div align="center">
   <h2>About Me</h2>
 </div>
 <p>
   📚 Software Developer<br>
-  👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS (S3 Bucket), and currently learning Flutter with Dart language in Android Studio.
+  👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS, and currently learning Flutter with Dart language in Android Studio.
 </p>
+
 <div align="center">
   <h2>Skills</h2>
 </div>
