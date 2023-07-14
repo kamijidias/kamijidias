@@ -25,6 +25,5 @@
 </p>
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
-📫 You can contact me via email: kamijidev@gmail.com
 
 Let's create amazing things together! 😄
