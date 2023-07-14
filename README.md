@@ -5,6 +5,7 @@
 About Me:
 📚 Software Developer
 👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS (S3 Bucket), and currently learning Flutter with Dart language in Android Studio.
+
 Skills:
 
 <p align="center">
@@ -17,6 +18,7 @@ Skills:
   <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-2-1174997.png" alt="AWS" width="60px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter" width="60px">
 </p>
+
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
 
 📫 You can contact me via email: kamijidev@gmail.com
