@@ -7,7 +7,7 @@
   <h2>About Me</h2>
 </div>
 <p>
-  📚 Software Developer<br>
+  📚 I'm Software Developer<br>
   👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, GraphQL, Node.js, MySQL, AWS, and currently learning Flutter with Dart language in Android Studio.
 </p>
 
