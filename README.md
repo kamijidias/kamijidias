@@ -8,9 +8,15 @@ About Me:
 
 Skills:
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/917183221375049728/945747298485428384/html-5.png" alt="HTML5" width="60px">
-  <img src="https://cdn.discordapp.com/attachments/917183221375049728/945747297537511464/css.png" alt="CSS3" width="60px">
-  <img src="https://cdn.discordapp.com/attachments/917183221375049728/945747298930032730/javascript.png" alt="JavaScript" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="TypeScript" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/react-native-555397.png" alt="React Native" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/go-2752172-2284945.png" alt="Go" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" alt="MongoDB" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-19-1174939.png" alt="MySQL" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-2-1174997.png" alt="AWS" width="60px">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter" width="60px">
 </p>
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
