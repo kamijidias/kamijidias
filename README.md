@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kamijidias/kamijidias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1> Welcome, my name is Andrew Kamiji </h1>
+<h1> Welcome, my name is Andrew Kamiji 👋 </h1>
     <p align='center'>
 </p>
 
@@ -32,16 +30,15 @@ Here are some ideas to get you started:
 -->
 <h2> About Me:</h2>
 
-- 📚 BSc. Software Developer ;<br>
-- 🎮 I’m passionate about videogames ;<br>
+- 📚 Software Developer ;<br>
 - 👩🏻‍💻 I love tech, I've knowledge in React, React Native, Typescript, Go, NoSQL databases ;<br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h2> Skills: </h2>
-<a href='https://github.com/makcim392'><img width ='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747298485428384/html-5.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747297537511464/css.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747298930032730/javascript.png'></a>
+<a href='https://github.com/kamijidias'><img width ='60px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747298485428384/html-5.png'></a>
+<a href='https://github.com/kamijidias'><img width ='60px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747297537511464/css.png'></a>
+<a href='https://github.com/kamijidias'><img width ='60px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747298930032730/javascript.png'></a>
 
 <h2>Stats:</h2>
 </br>
