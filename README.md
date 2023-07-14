@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <h2>Skills</h2>
+  <h2>Stack's</h2>
 </div>
 <p align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="60px">
