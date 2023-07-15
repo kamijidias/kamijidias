@@ -8,7 +8,7 @@
 </div>
 <p>
   📚 I'm Software Developer at Teclógica.<br>
-  👩🏻‍💻 I love technology.
+  ⚛️ Skilled in Full Stack Development with React, TypeScript, and NodeJS
 </p>
 
 <div align="center">
