@@ -7,8 +7,8 @@
   <h2>About Me</h2>
 </div>
 <p>
-  📚 I'm Software Developer at Teclógica<br>
-  👩🏻‍💻 I love technology and have experience in JavaScript, TypeScript, React, GraphQL, Node.js, MySQL, AWS, and currently learning Flutter with Dart language in Android Studio.
+  📚 I'm Software Developer at Teclógica.<br>
+  👩🏻‍💻 I love technology.
 </p>
 
 <div align="center">
