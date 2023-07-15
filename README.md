@@ -20,4 +20,7 @@
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
 
-Let's create amazing things together! 😄
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrewkamiji/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+</p>
+
