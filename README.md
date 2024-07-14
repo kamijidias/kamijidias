@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png" alt="Banner" width="722">
-</p>
 
 <div align="center">
   <h2>About Me</h2>
