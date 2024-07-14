@@ -5,7 +5,6 @@
 </div>
 <p>
   📚 I'm Software Developer at Teclógica.<br>
-  ⚛️ Skilled in Full Stack Development with React, TypeScript, and NodeJS
 </p>
 
 <div align="center">
